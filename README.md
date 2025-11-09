@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 added a new line
-# Introduction to Lab-GitHub-Changed in Main branch
+# Introduction to Lab-GitHub-Changed in Dev2 Branch
 
 _Get started using GitHub in less than an hour._
 
